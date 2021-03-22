@@ -1,23 +1,23 @@
 email:
-  id: "your.name@yoursite.com"
+  id: "mriceflame@protonmail.com"
   href: "mailto:"
   title: "Email"
   fa-icon: "fa-envelope-square fa-2x"
 
 github:
-  id: "your-github-name"
-  href: "https://github.com/"
+  id: "Mriceflame"
+  href: "https://github.com/mriceflame"
   title: "GitHub"
   fa-icon: "fa-github-square fa-2x"
 
 linkedin:
-  id: "your-linkedin-name"
-  href: "https://linkedin.com/"
+  id: "Farhan Ashraf"
+  href: "https://linkedin.com/in/s4a"
   title: "Linkedin"
   fa-icon: "fa-linkedin-square fa-2x"
 
 twitter:
-  id: "your-twitter-name"
-  href: "https://www.twitter.com/"
+  id: "Mriceflame Speaks"
+  href: "https://www.twitter.com/mriceflame"
   title: "Twitter"
   fa-icon: "fab fa-twitter fa-2x"
