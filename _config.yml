@@ -1,8 +1,7 @@
 title: "Farhan Ashraf"
 email: mriceflame@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is portfolio website of Mriceflame Farhan Ashraf
-hosted on Github Pages.
+  This is portfolio website of Mriceflame Farhan Ashraf hosted on Github Pages.
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
 baseurl: "/mriceflame.github.io"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
