@@ -1,10 +1,31 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
+- course: BS Computer Science
+  institute: Bahria University
   dates: 2018 - 2021
   logo: uob.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
+- course: Front End Web Developer
+  institute: EVS
+  dates: Fall 2018
   logo: fellowship.svg
   
+    
+- course: Certified Ethical Hacker
+  institute: Cybrary
+  dates: Fall 2020
+  logo: cybrary.png
+
+    
+- course: Python for Data Science
+  institute: Code Camp Academy
+  dates: Fall 2020
+  logo: cybrary.png
+      
+- course: Artificial intelligence  
+  institute: NIAIS
+  dates: spring 2020
+  logo: nias.png
+      
+- course: Mobile App Development
+  institute: Udemy
+  dates: Fall 2021
+  logo: udemy.png
